@@ -1,5 +1,6 @@
 # DYNAMIC-AND-ADAPTIVE-LEARNING-TRAILS
-  •EduQuest - educational software, focusing on crafting personalized learning journey tailored to individual student needs. 
+  •EduQuest - educational software, focusing on crafting personalized learning journey tailored to individual student needs.
+  
   •Implemented algorithms such as greedy algorithms, knapsack, merge sort to optimize study schedules and enhance productivity and designed a application using HTML,CSS,JS.
 
 
